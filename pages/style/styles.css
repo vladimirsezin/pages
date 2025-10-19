@@ -1,0 +1,63 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.header {
+  text-align: center;
+}
+.avatar {
+  width: 300px;
+  height: 400px;
+}
+.header_title {
+  font-size: 28px;
+}
+.header_subtitle {
+  color: rgb(43, 37, 220);
+}
+main {
+  border: 1px solid grey;
+  text-align: center;
+}
+.skills ol {
+  list-style: none;
+}
+.separator {
+  width: 50%;
+  height: 3px;
+  background-color: black;
+}
+.video iframe {
+  width: 800px;
+  height: 490px;
+  border: none;
+}
+.education_table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.education_table th,
+.education_table td {
+  border: 1px solid black;
+  padding: 10px;
+}
+.quote {
+  font-size: 32px;
+}
+.form {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.form_control {
+  width: 100%;
+}
+footer {
+  height: 100px;
+  text-align: center;
+  background-color: rgb(247, 245, 245);
+}
+.contact {
+  text-decoration: none;
+  color: rgb(43, 37, 220);
+}
